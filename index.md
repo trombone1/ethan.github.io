@@ -1,4 +1,4 @@
-## 簡介
+## 
   * Ethan Kuo 郭柏甫
   * Passions in AI.
   * Stay hungry, stay foolish.
