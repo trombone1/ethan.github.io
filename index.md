@@ -1,19 +1,20 @@
 ## Ethan Kuo 郭柏甫
   * Passions in AI.
-  * Stay hungry, stay foolish.
+  * Data Scientist & AI Concultant
 
 ## 學歷
 
 * 碩士班, 師大數學所(主修統計)
   *   2019 -
 * 學士, 師大數學系
-  *   2006 - 2010
+  *   2011 - 2013
 
 ## 經歷
 * AI 工程師, 台灣人工智慧學校
-  * 2018/05 -
+  * 2023/09 -
+* 資展國際, AI課程講師(Python 機器學習& Python深度學習)
 * 高中數學/AI多元選修課程教師, 南山高中
-  * 2015/Oct - 2018/May
+  * 2014/07 - 2023/07
 
 ## 課程 / 演講
 * 3AI 探索實作夏令營, 1221青社會, 澎湖海基金會
@@ -45,31 +46,26 @@
 
 ## 競賽
 
-* [MICCAI 2022 SAR-RARP50](https://www.synapse.org/#!Synapse:syn27618412/wiki/619479)
-  * Surgical instrumentation segmentation and Action Recognition on Robot-Assisted Radical Prostatectomy Challenge
-  * 多任務: 2nd
-  * 影像切割: 4th
-  * 隊名: AIA_Noobs
-  * 2022/9/18
-* 2018 故宮黑客松
-  * 第1名
-  * 影像風格轉換
-* 2018 AIA 第一屆技術班 專題競賽
-    *  佳作
-    *  金屬表面瑕疵檢測
+* 2022 Nvidia Jetson Family微競賽(https://hackmd.io/WvpJWR9_QJOZhZ3am3PRMQ)
+  * Real-time Bacillus Detection 
+  * 以 Jetson Xavier NX 實現水質桿菌即時偵測、辨識
+* 2022 教育部人工智慧教育計畫績優學校-計畫執行&教學特優教師
+  * 高中AI多元選修課程
+* 2021 AIGO教練聯盟成果發表
+    *  公共領域最佳學員表率獎
 
 ## 專長
 
-深度學習、人工智慧、醫學影像、瑕疵檢測、心電圖
+機器學習、深度學習、人工智慧、瑕疵檢測
 
 ## 連結
 
-[GitHub](https://github.com/taipingeric)
+[GitHub](trombone1.github.io)
 
-[LinkedIn](https://www.linkedin.com/in/chihyang-li-a883b375/)
+[LinkedIn](https://www.linkedin.com/in/ethan-kuo-409943201/)
 
-[Slideshare](https://www.slideshare.net/ChihyangLi)
+[Slideshare](https://hackmd.io/1tzfZJqOQDqO8Yh0iS-jJQ)
 
 ## 聯絡資訊
 
-taipingeric@gmail.com
+ison0615@gmail.com
